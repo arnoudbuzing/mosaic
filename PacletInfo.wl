@@ -15,7 +15,18 @@ PacletObject[
         "Kernel",
         "Root" -> "Kernel",
         "Context" -> {"ArnoudBuzing`Mosaic`"},
-        "Symbols" -> {"ArnoudBuzing`Mosaic`ImageSquareQ"}
+        "Symbols" -> {
+          "ArnoudBuzing`Mosaic`AlphaChannelQ",
+          "ArnoudBuzing`Mosaic`Image3DCubeQ",
+          "ArnoudBuzing`Mosaic`ImageCropResize",
+          "ArnoudBuzing`Mosaic`ImageLandscapeQ",
+          "ArnoudBuzing`Mosaic`ImagePortraitQ",
+          "ArnoudBuzing`Mosaic`ImageSquareQ",
+          "ArnoudBuzing`Mosaic`ImageStrictlyLandscapeQ",
+          "ArnoudBuzing`Mosaic`ImageStrictlyPortraitQ",
+          "ArnoudBuzing`Mosaic`RandomRomanNumeral",
+          "ArnoudBuzing`Mosaic`RandomWikipediaData"
+        }
       },
       {
         "Documentation",
